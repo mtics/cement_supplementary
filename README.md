@@ -13,7 +13,7 @@ Once the work accepted, we will release the MATLAB code of CEMENT.
 ```bibtex
 @misc{li2022cement,
       title={CEMENT: Incomplete Multi-View Weak-Label Learning with Long-Tailed Labels}, 
-      author={Zhiwei Li and Lu Sun},
+      author={Zhiwei Li, Lu Sun, Mineichi Kudo and Kego Kimura},
       year={2022},
       eprint={2201.01079},
       archivePrefix={arXiv},
